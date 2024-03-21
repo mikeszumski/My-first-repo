@@ -79,7 +79,7 @@ Suggest tools for internal use, such as
 - A code and product maintenance LLM to support queries about a specific product and the code and data underlying it.  Particularly useful for products based on old mainframe code and data for which documentation is time-consuming to access.
 
 ### Why do you think that offering this product or service would benefit the company?
-- the first is a productivity enhancer.
+- The first is a productivity enhancer.
 - The second will improve productivity, reduce risk and improve customer service to those clients who rely on the products.
 
 ### What technologies would this additional product or service utilize?
@@ -92,5 +92,5 @@ These technologies are proving their worth across the spectrum of industries. Wh
 
 1. Broadridge Financial Solutions [Annual Report (10-K)](https://d18rn0p25nwr6d.cloudfront.net/CIK-0001383312/a1ae6c06-0123-4358-8708-584f934eafe4.pdf)
 2. Zack's [BR page](https://www.zacks.com/stock/chart/BR/interactive)
-3. Googlr Finance [BR page](https://g.co/finance/BR:NYSE?window=1Y&comparison=NYSE%3AFIS%2CNYSE%3AFI)
+3. Google Finance [BR page](https://g.co/finance/BR:NYSE?window=1Y&comparison=NYSE%3AFIS%2CNYSE%3AFI)
 4. Wikipedia [Broadridge page](https://en.wikipedia.org/wiki/Broadridge_Financial_Solutions)
